@@ -11,3 +11,4 @@ A terminal I use a lot especially in combination with pidcat from Jake Wharton f
  - Open te "Profiles" tab
  - Click on the settings icon on the bottom of the screen below all the terminal themes.
  - Go to "Import..." and select the Terminal theme you just downloaden. 
+ - **Optional: ** closing the terminal will reset the theme to default. Click on this theme and press default to set it as your default.
